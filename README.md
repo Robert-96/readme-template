@@ -2,7 +2,7 @@
 
 > A brief description about what your project does.
 
-A more detailed one to two paragraph description about your project and what it does and who it's for.
+A more detailed one to two paragraph description about your project, what it does and who it's for.
 
 ## Getting Started
 
